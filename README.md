@@ -28,3 +28,6 @@
 7. readme.md 수정
 8. add.cpp , sub.cpp 문자열 유니코드로 오류
 9. 시간 부족으로 스크린샷 미첨부.
+
+<img src ="1..png" width ="400"/>
+<img src ="calc.cpp수정.png" width ="400"/>
