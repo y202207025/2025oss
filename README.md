@@ -1,6 +1,30 @@
-![스크린샷1](images/screenshot_1.png)
-![스크린샷1](images/screenshot_2.png)
-![스크린샷1](images/screenshot_3.png)
-![스크린샷1](images/screenshot_4.png)
-![스크린샷1](images/screenshot_5.png)
-![스크린샷1](images/screenshot_6.png)
+
+# OSS 기말 프로젝트
+
+### 저장소: [https://github.com/y20220725/2025oss](https://github.com/y20220725/2025oss)
+
+---
+
+##  팀원 및 역할
+
+| 이름     | 역할 / 수행한 업무 |
+|----------|------------------|
+| 팀장: 홍준표 | 역할배분, main파일 , 덧셈,뺄셈 구현 및 최종으로 Merge 작업 / dev/a 브랜치 활용  |
+| 팀원: 문건우 | 곱셈, 나머지 연산 구현/ dev/b 브랜치 활용|
+| 팀원: 김인선 | 나눗셈 구현, dev/c 브랜치 활용 |
+
+
+---
+
+##  문제 해결 방법 및 진행 순서
+
+1. 요구사항 분석 및 역할 분담  
+2. 각각 요구사항에 맞는 작업을 각각의 브랜치에서 작업
+3. 팀장과 팀원이 소통하여 Merge 작업을 수행 
+4. Merge 작업중 충돌상황이 발생하였으나, 충돌된 파일을 수정하여 충돌해결
+5. 문제발생 ** git push --all로 원격저장소로 push하였으나 팀원들이 작업한 내용이 push가 안되고 기존 내용이 push됨 
+6. 문제해결** 팀장 git에서 git pull --all로 팀원들이 push한 내용을 가져오고 다시 merge하여 해결하였음. 
+   그러나 팀장이 한 add,calc.cpp가 merge가 제대로 되지 않아 다시 작업 후 merge 해결 .
+7. readme.md 수정
+8. add.cpp , sub.cpp 문자열 유니코드로 오류
+9. 시간 부족으로 스크린샷 미첨부.

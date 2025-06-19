@@ -2,6 +2,6 @@
 
 int add(int x, int y)
 {
-	printf("x[ %d ]¿Í y[ %d ] °ªÀ» ´õÇÕ´Ï´Ù.\n");
+	printf("x[ %d ]¿  y[ %d ] ¿¿ ¿¿¿¿.\n");
 	return x + y;
 }
