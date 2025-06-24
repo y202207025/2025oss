@@ -23,10 +23,12 @@
 3. 팀원들이 git push --all로 구현한 기능 원격지 주소로 업로드
 4. 팀장이 main 으로  dev/a, dev/b, dev/c 순으로 병합.
 5. main - dev/a 병합때  충돌발생, main - dev/c 병합때 충돌발생, vi로 해당 파일 열어서 충돌발생한 원인 분석후 충돌원인 제거 
-6. 
+6. 중간에 브랜치 하나가 누락되어서 추가작업 
+7. README.md 작성 및 이미지 삽입 
 
 
 
 
 
-<img src="이미지 이름" width ="350"/>
+
+<img src="images/1.png" width ="350"/>
