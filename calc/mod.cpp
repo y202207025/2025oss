@@ -1,6 +1,10 @@
-#include "mod.h"
 
+#include "add.h"
 int mod(int x, int y)
 {
-	return 0;
+	while(x >= y)
+	{
+		x = add(x, y);
+	}
+	return x;
 }
