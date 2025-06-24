@@ -2,9 +2,10 @@
 #include "add.h"
 int mod(int x, int y)
 {
-	while(x >= y)
+	int sum = 0;
+	for (int i = 0; i < y; i++)
 	{
-		x = add(x, y);
+		sum = add(sum, x);
 	}
-	return x;
+	return sum;
 }
